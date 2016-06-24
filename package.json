@@ -1,0 +1,19 @@
+{
+  "name": "poly-find",
+  "description": "Polymorphic curried list lookup for functional style JS",
+  "keywords": "find, search, object, array, list, pipeline",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acvos/poly-find.git"
+  },
+  "author": "Anthony Chernikov <achernikov@acvos>",
+  "dependencies": {
+    "curry": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=4.0",
+    "npm": ">=2.0"
+  },
+  "license": "Apache-2.0"
+}
